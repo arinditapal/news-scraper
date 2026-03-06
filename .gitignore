@@ -1,0 +1,14 @@
+
+chromedriver-win64/
+
+.venv/
+
+page.html
+
+./disasters
+
+./images
+
+./news
+
+./under_process_disasters
